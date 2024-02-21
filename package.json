@@ -14,7 +14,7 @@
     "lint": "npm run lint:js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.28.0",
     "install": "^0.13.0",
     "lodash": "^4.17.19",
     "markdown-it": "^11.0.1",
